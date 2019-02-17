@@ -234,7 +234,7 @@ font-style: oblique;
     flex-direction:column;
     text-align: center;
   }
-}
-div.item15{
-  font-size:16px;
+  div.item15{
+    font-size:16px;
+  }
 }
